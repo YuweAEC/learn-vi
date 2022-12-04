@@ -1,1 +1,4 @@
-# learn-vi
+# LEARN-VI
+- Introduction
+- Authors
+- Acknowledgements
