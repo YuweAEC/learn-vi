@@ -1,0 +1,18 @@
+# Ignore compiled files
+*.o
+*.out
+
+# Ignore swap files
+*~
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore user-specific files
+.idea/
+.vscode/
+
+# Ignore compiled binaries
+/bin/
+
